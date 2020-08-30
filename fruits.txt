@@ -3,3 +3,6 @@ avocado
 plum
 grape
 peach
+pear
+plum
+
